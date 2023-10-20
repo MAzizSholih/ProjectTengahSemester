@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movies 2023</string>
+    <string name="the_nun_ii">The Nun II</string>
+    <string name="teenage_mutant_ninja_turtle_mutant_mayhem">TMNT: Mutant Mayhem</string>
+    <string name="transformers_rise_of_the_beasts">Transformers: Rise of the Beasts</string>
+    <string name="insidious_the_red_door">Insidious: The Red Door</string>
+    <string name="indiana_jones_and_the_dial_of_destiny">Indiana Jones and the Dial of Destiny</string>
+    <string name="evil_dead_rise">Evil Dead Rise</string>
+    <string name="fast_x">Fast X</string>
+    <string name="oppenheimer">Oppenheimer</string>
+    <string name="saw_x">Saw X</string>
+    <string name="barbie">Barbie</string>
+    <string name="blue_beetle">Blue Beetle</string>
+    <string name="gran_turismo">Gran Turismo</string>
+    <string name="spider_man_across_the_spider_verse">Spider-Man: Across the Spider-Verse</string>
+    <string name="ruby_gillman_teenage_kraken">Ruby Gillman, Teenage Kraken</string>
+    <string name="meg_2_the_trench">Meg 2: The Trench</string>
+    <string name="button_detail_film">Next</string>
+
+    <string name="the_nun_ii_movie_description">1956 - Perancis. Seorang pendeta dibunuh. Kejahatan sedang menyebar. Sekuel dari kesuksesan besar di seluruh dunia ini mengikuti Suster Irene yang sekali lagi berhadapan dengan Valak, biarawati iblis.</string>
+    <string name="teenage_mutant_ninja_turtle_mutant_mayhem_movie_description">Turtle bersaudara berusaha mendapatkan cinta dari Kota New York sambil menghadapi pasukan mutan.</string>
+    <string name="transformers_rise_of_the_beasts_movie_description">Selama tahun 90-an, faksi baru Transformers – Maximals – bergabung dengan Autobots sebagai sekutu dalam pertempuran demi Bumi.</string>
+    <string name="insidious_the_red_door_movie_description">Keluarga Lambert harus masuk lebih jauh ke dalam The Further daripada sebelumnya untuk mengistirahatkan iblis mereka untuk selamanya.</string>
+    <string name="indiana_jones_and_the_dial_of_destiny_movie_description">Arkeolog Indiana Jones berpacu dengan waktu untuk mengambil artefak legendaris yang dapat mengubah jalannya sejarah.</string>
+    <string name="evil_dead_rise_movie_description">Sebuah kisah memutarbalikkan tentang dua saudara perempuan yang terasing yang pertemuannya kembali terhenti karena munculnya setan-setan yang merasuki daging, mendorong mereka ke dalam pertempuran besar untuk bertahan hidup saat mereka menghadapi versi keluarga yang paling mengerikan yang bisa dibayangkan.</string>
+    <string name="fast_x_movie_description">Dom Toretto dan keluarganya menjadi sasaran putra gembong narkoba Hernan Reyes yang pendendam.</string>
+    <string name="oppenheimer_movie_description">Kisah ilmuwan Amerika, J. Robert Oppenheimer, dan perannya dalam pengembangan bom atom.</string>
+    <string name="saw_x_movie_description">John yang sakit dan putus asa melakukan perjalanan ke Meksiko untuk menjalani prosedur medis yang berisiko dan eksperimental dengan harapan mendapatkan obat ajaib untuk kankernya, namun ternyata seluruh operasi tersebut adalah penipuan untuk menipu kelompok yang paling rentan.</string>
+    <string name="barbie_movie_description">Barbie mengalami krisis yang membuatnya mempertanyakan dunia dan keberadaannya.</string>
+    <string name="blue_beetle_movie_description">Alien scarab memilih Jaime Reyes untuk menjadi tuan rumah simbiosisnya, memberikan lulusan perguruan tinggi baru-baru ini sebuah baju zirah yang mampu memberikan kekuatan luar biasa, selamanya mengubah takdirnya saat ia menjadi pahlawan super yang dikenal sebagai Blue Beetle.</string>
+    <string name="gran_turismo_movie_description">Berdasarkan kisah nyata yang luar biasa dan inspiratif dari sebuah tim yang tidak diunggulkan - seorang gamer kelas pekerja yang berjuang, mantan pembalap mobil yang gagal, dan seorang eksekutif motorsport yang idealis - yang mempertaruhkan segalanya untuk mengikuti olahraga paling elit di dunia.</string>
+    <string name="spider_man_across_the_spider_verse_description">Miles Morales terbang melintasi Multiverse, di mana ia bertemu dengan tim Spider-People yang bertugas melindungi keberadaan Multiverse. Saat para pahlawan berselisih tentang cara menangani ancaman baru, Miles harus mendefinisikan ulang apa artinya menjadi pahlawan.</string>
+    <string name="ruby_gillman_teenage_kraken_movie_description">Seorang remaja pemalu mengetahui bahwa dia berasal dari keluarga kerajaan kraken laut legendaris dan takdirnya terletak di kedalaman perairan, yang lebih besar dari yang pernah dia bayangkan.</string>
+    <string name="meg_2_the_trench_movie_description">Sebuah tim peneliti menghadapi berbagai ancaman saat menjelajahi kedalaman laut, termasuk operasi penambangan yang jahat.</string>
+</resources>
